@@ -4,7 +4,7 @@ A website which can help you to check whether your birthday is lucky or not. Jus
 
 ## Demo -
 
-You can view this app live here - [Demo](https://)
+You can view this app live here - [Demo](https://is-birthday-lucky-checker.netlify.app/)
 
 ## Tech Stack -
 
